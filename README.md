@@ -1,14 +1,14 @@
 # Simple Secure PHP OOP Login System
 Features:
-* login
-* register
-* change password
-* update profile
-* see users profile's
-* logout
-* session saving (a.k.a. Remember-me button)
-* validation and utils
-* salt-hash-encrypted passwords
+* _Login
+* _Register
+* _Change password
+* _Update profile
+* _See users profile's
+* _Logout
+* _Session saving (a.k.a. Remember-me button)
+* _validation and utils
+* _Salt-hash-encrypted passwords
 
 How to install:
 * Clone the repository
