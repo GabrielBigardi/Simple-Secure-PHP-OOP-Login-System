@@ -1,5 +1,5 @@
 # Simple Secure PHP OOP Login System
-Features:
+***Features:***
 * _Login_
 * _Register_
 * _Change password_
@@ -10,7 +10,7 @@ Features:
 * _validation and utils_
 * _Salt-hash-encrypted passwords_
 
-How to install:
+***How to install:***
 * _Clone the repository_
 * _Get the .SQL file and use it to create a database on your PHPMyAdmin/MySQL_
 * _Grab the PHP-files folder and add to your WWW/HTDOCS folder_
