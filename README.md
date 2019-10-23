@@ -17,6 +17,6 @@
 * _Register and use the system_
 
 ***Test User Details***
-* _Login: TestUser_
-* _Password: testuser_
-* _Profile: http://site/profile.php?user=TestUser _
+* Login: TestUser
+* Password: testuser
+* Profile: http://site/profile.php?user=TestUser
