@@ -18,5 +18,5 @@
 
 ***Test User Details***
 * _Login: TestUser_
-* _Password: testuser
-* _Profile: http://site/profile.php?user=TestUser
+* _Password: testuser_
+* _Profile: http://site/profile.php?user=TestUser _
