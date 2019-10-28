@@ -124,6 +124,10 @@ class User{
 		return $this->_data;
 	}
 	
+	public function getAvatar(){
+		return ($this->data()->avatar) == "" ? 'images/avatar/default.png' : $this->data()->avatar;
+	}
+	
 	public function isLoggedIn(){
 		return $this->_isLoggedIn;
 	}
