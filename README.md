@@ -15,3 +15,8 @@
 * _Get the .SQL file and use it to create a database on your PHPMyAdmin/MySQL_
 * _Grab the PHP-files folder and add to your WWW/HTDOCS folder_
 * _Register and use the system_
+
+***Test User Details***
+* Login: TestUser
+* Password: testuser
+* Profile: http://site/profile.php?user=TestUser
