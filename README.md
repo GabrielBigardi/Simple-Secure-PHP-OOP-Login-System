@@ -1,4 +1,7 @@
 # Simple Secure PHP OOP Login System
+[![version](https://img.shields.io/badge/PHP-5.6-orange)](https://www.php.net/downloads.php)
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/GabrielBigardi/Simple-Secure-PHP-OOP-Login-System/releases)
+
 ***Features:***
 * _Login_
 * _Register_
