@@ -10,7 +10,7 @@
 * _See users profile's_
 * _Logout_
 * _Session saving (a.k.a. Remember-me button)_
-* _validation and utils_
+* _Validation and utils_
 * _Salt-hash-encrypted passwords_
 
 ***How to install:***
@@ -22,4 +22,4 @@
 ***Test User Details***
 * Login: TestUser
 * Password: testuser
-* Profile: http://site/profile.php?user=TestUser
+* Profile: http://YOUR_SITE_HERE/profile.php?user=TestUser
